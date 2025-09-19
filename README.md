@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Dark Tech Coding Banner]([YOUR_IMAGE_URL_HERE](https://unsplash.com/photos/a-close-up-of-an-owl-in-the-dark-krZhg3LoLZ8))
+![Dark Tech Coding Banner](https://unsplash.com/photos/a-close-up-of-an-owl-in-the-dark-krZhg3LoLZ8)
 
 # Hey there! I’m **Lakshit Verma**  
 ✨ Also known as *yummyPancake2607* ✨  
