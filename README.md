@@ -1,10 +1,8 @@
-<!-- Profile README -->
+<!-- Banner Image -->
+![Dark Tech Coding Banner]([YOUR_IMAGE_URL_HERE](https://unsplash.com/photos/a-close-up-of-an-owl-in-the-dark-krZhg3LoLZ8))
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">  
 # Hey there! I’m **Lakshit Verma**  
 ✨ Also known as *yummyPancake2607* ✨  
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif" />
 
 ---
 
@@ -32,21 +30,21 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/yummyPancake2607/todo_cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=todo_cli&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/yummyPancake2607/expense_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=expense_tracker&theme=tokyonight" />
-  </a>
+<a href="https://github.com/yummyPancake2607/todo_cli">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=todo_cli&theme=tokyonight" />
+</a>
+<a href="https://github.com/yummyPancake2607/expense_tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=expense_tracker&theme=tokyonight" />
+</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yummyPancake2607/github_cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=github_cli&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/yummyPancake2607/web_expense_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=web_expense_tracker&theme=tokyonight" />
-  </a>
+<a href="https://github.com/yummyPancake2607/github_cli">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=github_cli&theme=tokyonight" />
+</a>
+<a href="https://github.com/yummyPancake2607/web_expense_tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=web_expense_tracker&theme=tokyonight" />
+</a>
 </p>
 
 ---
@@ -65,8 +63,6 @@
 - 🎶 Music is my coding fuel  
 - 📸 Photography lover — sometimes my lens is as blurry as my bugs  
 - 🕹 Small games, big lessons: my **number_guessing_game** taught me more than I expected!  
-
-<img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="250" alt="Fun gif"/>
 
 ---
 
