@@ -1,12 +1,12 @@
-<!-- 🌌 Futuristic Hero Banner -->
+<!-- 🎉 Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&section=header&text=🚀%20Lakshit's%20Dev%20Universe&fontSize=40&fontColor=00F9FF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:553C9A,100:00F9FF&height=250&section=header&text=🚀%20Lakshit's%20Dev%20Universe%20🚀&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Lakshit's Dev Universe banner"/>
 </p>
 
-<!-- 👨‍💻 Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F9FF&center=true&vCenter=true&width=850&lines=⚡+Backend+Engineer+%7C+Python+%26+FastAPI;☕+Fueled+by+Code+and+Coffee;💡+Crafting+Clean+%26+Simple+Solutions;🌟+Always+Learning+%7C+Always+Building" alt="Typing SVG intro"/>
-</h1>
+<!-- 👨‍💻 Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F9FF&center=true&vCenter=true&width=850&lines=⚡+Backend+Engineer+%7C+Python+%26+FastAPI;☕+Fueled+by+Coffee+%26+Code;💡+Building+Simple+%26+Scalable+Solutions;🌟+Always+Learning+%7C+Always+Building" alt="Typing SVG intro"/>
+</p>
 
 ---
 
@@ -102,9 +102,9 @@
 ## 🔮 Outro  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=850&lines=✨+Keep+Coding%2C+Keep+Growing+✨;⚡+Made+With+Passion+By+Lakshit+Verma;🌌+Thanks+For+Visiting!+🚀" alt="Outro Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=700&color=9D4EDD&center=true&vCenter=true&width=850&lines=✨+Keep+Coding+Keep+Growing+✨;🔥+Made+With+Passion+By+Lakshit+Verma;🚀+Thanks+For+Visiting!" alt="Outro Typing"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=302b63&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F9FF,100:553C9A&height=120&section=footer" alt="Footer Wave"/>
 </p>
