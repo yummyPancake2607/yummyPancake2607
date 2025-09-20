@@ -1,6 +1,6 @@
-<!-- 🦉 Neon Snow Owl Banner -->
+<!-- 🦉 Cyber Neon Owl Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/f9XgHHnPnDJGU/giphy.gif" alt="Cyber Snow Owl Neon" style="width:100%; max-width:900px; border-radius:20px;"/>
+  <img src="https://cdn.dribbble.com/users/119284/screenshots/4900201/media/9af7932ef549fa40f19a1e0122972a97.gif" alt="Neon Cyber Owl" style="width:100%; max-width:900px; border-radius:20px;"/>
 </div>
 
 <h1 align="center">❄️🦉 Lakshit Verma | The Cyber Snow Owl</h1>
@@ -10,25 +10,25 @@
 
 ## 🧭 About Me  
 
-- 🦉 I am the **Snow Owl of Midnight Code**  
-- ❄️ Mastering **Backend Development (Python + FastAPI)**  
-- 🎮 Gaming reflexes → turned into debugging superpowers  
-- 🌌 At night, my code glows like neon  
+- 🦉 A Snow Owl forged from **code + neon nights**  
+- ❄️ Backend Wizard → **Python | FastAPI | Automation**  
+- 🎮 Gamer skills = Debugging reflex speed  
+- 🌌 I don’t code, I **command the dark**  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Snow Owl in Night"/>
+  <img src="https://i.pinimg.com/originals/0e/92/69/0e9269ad74c8e1dbd87579dbc5142c15.gif" width="500" alt="Owl in Cyber Aura"/>
 </div>
 
 ---
 
-## ⚡ My Tech Stack  
+## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,linux,docker,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,docker,linux,git,github,vscode,mysql" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="520" alt="Neon Coding Matrix"/>
+  <img src="https://i.pinimg.com/originals/2e/2b/fd/2e2bfd13cc6c92cc7a85f7f8d7da4f2d.gif" width="520" alt="Neon Coding Flow"/>
 </div>
 
 ---
@@ -57,18 +57,18 @@
 
 ## 🎮 Fun Zone  
 
-🦉 Snow Owl Vision → spotting bugs in neon darkness  
-🎮 Debugging → feels like beating a final boss fight  
-⚡ Every project = a new quest  
-🌌 My IDE isn’t dark mode → it’s **galaxy mode**  
+🦉 In the silence of night → I see code glowing in neon  
+🎮 Games taught me → timing, patience & strategy for debugging  
+⚡ Every bug is just a final boss waiting for defeat  
+🌌 My workspace = a galaxy of code + beats  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="420" alt="Neon Gamer Coding"/>
+  <img src="https://i.gifer.com/6V0P.gif" width="420" alt="Neon Gamer Coding"/>
 </div>
 
 ---
 
-## 📡 Let's Connect  
+## 📡 Let’s Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshit-verma-933a56379/">
@@ -87,13 +87,13 @@
 ## 🦉 ❄️ Outro  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="700" alt="Neon Glitch Outro"/>
+  <img src="https://cdn.dribbble.com/users/255512/screenshots/4935854/comp-owl.gif" width="700" alt="Neon Glitch Owl Outro"/>
 </div>
 
 <h2 align="center">⚡ Crafted in Midnight Silence</h2>  
-<h2 align="center">🦉 Glitched by the Snow Owl</h2>  
+<h2 align="center">🦉 Forged by The Neon Snow Owl</h2>  
 <h2 align="center">🚀 Signed with Code by <strong>Lakshit Verma</strong></h2>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=This+Profile+is+Built+to+Glow;Guardian+of+Code+%26+Gaming;Made+with+Coffee%2C+Neon+%26+Code;Till+Next+Commit...+Stay+Legendary!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=This+Profile+Glows+in+Neon;Guardian+of+Code+%26+Gaming;Made+with+Snow%2C+Silence+%26+Logic;Stay+Frosty...+See+You+at+Midnight+🦉"/>
 </p>
