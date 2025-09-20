@@ -1,19 +1,21 @@
 <!-- 🌌 Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/fmtMRRASJMemhmCflM/giphy.gif" width="800" alt="Night Owl Coding Banner"/>
+  <img src="https://media.giphy.com/media/fmtMRRASJMemhmCflM/giphy.gif" width="800" alt="Night Owl Coding"/>
 </p>
 
-# 👋 Hey there, I’m **Lakshit Verma**  
+# 👋 Hey, I’m **Lakshit Verma**  
 ✨ Also known as *yummyPancake2607* ✨  
+
+💻 Backend Engineer | 🚀 Problem Solver | ☕ Coffee-powered Developer  
 
 ---
 
 ## 🧭 About Me  
 
-- 🌱 Currently exploring **Backend Development** with Python & FastAPI  
-- 🛠 Passionate about building **CLI tools & web utilities**  
-- 🎯 Goal → Craft code that’s **simple, elegant & purposeful**  
-- ☕ Powered by caffeine & curiosity  
+- 🌱 Exploring **Backend Development** with Python & FastAPI  
+- 🛠 Passionate about building **CLI tools & Web utilities**  
+- 🎯 Mission → Write **simple, useful & scalable** code  
+- ☕ Motto → *Every bug fixed = One coffee earned*  
 
 ---
 
@@ -53,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats & Analytics  
+## 📊 GitHub Stats & Graphs  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yummyPancake2607&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=f72585" height="160"/>
@@ -65,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yummyPancake2607&theme=onedark&no-frame=true&margin-w=10&row=1" width="80%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yummyPancake2607&theme=onedark&no-frame=true&margin-w=10&row=1" width="80%"/>
 </p>
 
 <p align="center">
@@ -80,10 +82,10 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Coding Vibes"/>
 </p>
 
-- 🎶 Music is my debugging companion  
-- 📸 Photography inspires my perspective  
-- 🕹 Games helped me learn more about *logic than lectures ever could*  
-- ☕ Every bug = one more cup of coffee  
+- 🎶 Playlist = My Debugging Partner  
+- 📸 Lens lover → sometimes as blurry as my bugs  
+- 🕹 Building small games → learning big ideas  
+- ☕ Infinite code, infinite coffee  
 
 ---
 
@@ -97,10 +99,10 @@
 
 ---
 
-## 🥞 Outro  
+## 🙏 Thank You  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=30&duration=4000&pause=2000&color=f72585&center=true&vCenter=true&width=1000&lines=✨+Thanks+For+Visiting!;🚀+Let's+Build+%26+Learn+Together;☕+Code.+Coffee.+Repeat.+🥞" alt="Outro Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=34&duration=5000&pause=2000&color=38bdf8&center=true&vCenter=true&width=1000&lines=🙏+Thanks+So+Much+For+Visiting!;😊+I'm+Really+Glad+You+Stopped+By;💡+Hope+Something+Here+Inspired+You;🚀+See+You+Again+Soon!" alt="Warm Outro Animation"/>
 </p>
 
 <p align="center">
