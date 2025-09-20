@@ -1,117 +1,116 @@
-<!-- ❄️ Cyber Snow Owl Banner -->
+<!-- 🌌 Hero Banner -->
 <div align="center">
-  <img src="https://i.giphy.com/media/3og0INyCmHlNylks9O/giphy.gif" alt="Glowing Snow Owl" style="width:100%; max-width:960px; border-radius:15px;"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Glowing Pancakes" style="width: 100%; max-width: 900px; border-radius: 15px;"/>
 </div>
 
-<!-- 🦉 Neon Ice Typing Banner -->
+<!-- ✨ Cyberpunk Pancake Typing Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=❄️+The+Robotic+Snow+Owl+🦉;⚡+Coding+Machine+in+the+Midnight+Storm;🎮+Gamer+%7C+Developer+%7C+Creator;🌌+Living+in+Neon+Purples+%26+Ice+Blues;🔥+Turning+Code+into+Magic" alt="Typing Snow Owl Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&duration=3000&pause=1000&color=F7C259&background=00000000&center=true&vCenter=true&width=850&lines=🥞+Lakshit+Verma+%7C+yummyPancake2607+🥞;Backend+Developer+⚡+Python+%26+FastAPI;Coding+with+Coffee+%2B+Pancakes+☕;Let's+Make+Life+%F0%9F%9A%80+Simpler!" alt="Typing SVG Banner"/>
 </h1>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header&text=🦉+Welcome+to+My+Cyber+Nest+🌌&fontSize=30&fontColor=E0FFFF&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header&text=🥞+Welcome+to+My+Pancake+Universe!+🥞&fontSize=30&fontColor=0D1117&animation=fadeIn&fontAlignY=40" />
 </p>
 
 ---
 
 ## 🧭 Who Am I?  
 
-🦉 ❄️ **Robotic Snow Owl** gliding through neon night skies  
-⚡ Crafting software that feels like **magic & power-ups**  
-🎮 Gamer soul, developer mind, creator spirit 🚀  
-🌌 Fuel = **Coffee x Midnight Code x Gaming Energy**  
+🍯 Backend Dev exploring **Python + FastAPI**  
+🥞 Pancake nickname → `yummyPancake2607`  
+⚡ Passion = **simple tools > endless complexity**  
+☕ Life motto: *More coffee, less bugs*  
 
 <div align="center">
-  <img src="https://i.giphy.com/media/XagwC6v6tOJ7u/giphy.gif" width="400" alt="Neon Owl Glitch Animation"/>
+  <img src="https://media.giphy.com/media/3o7TKQ2Nc5a6LNp29i/giphy.gif" width="300"/>
 </div>
 
 ---
 
-## ⚡ Tech Arsenal  
+## ⚡ Tech Playground  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,linux,vscode,docker,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,linux,vscode,mysql,docker" alt="tools" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yummyPancake2607&theme=react-dark&bg_color=0D1117&line=6A5ACD&point=00F7FF&area_color=483D8B&area=true&hide_border=true" width="95%"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yummyPancake2607&theme=react-dark&bg_color=0D1117&line=FFD700&point=FF8C00&hide_border=true" width="90%"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Highlight Repos  
 
 <p align="center">
   <a href="https://github.com/yummyPancake2607/todo_cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=todo_cli&theme=tokyonight&border_color=6A5ACD&title_color=00F7FF&icon_color=7B68EE" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=todo_cli&theme=tokyonight&border_color=FFD700&title_color=FFD700&icon_color=FF8C00" />
   </a>
   <a href="https://github.com/yummyPancake2607/expense_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=expense_tracker&theme=tokyonight&border_color=6A5ACD&title_color=00F7FF&icon_color=7B68EE" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=expense_tracker&theme=tokyonight&border_color=FFD700&title_color=FFD700&icon_color=FF8C00" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/yummyPancake2607/github_cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=github_cli&theme=tokyonight&border_color=6A5ACD&title_color=00F7FF&icon_color=7B68EE" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=github_cli&theme=tokyonight&border_color=FFD700&title_color=FFD700&icon_color=FF8C00" />
   </a>
   <a href="https://github.com/yummyPancake2607/web_expense_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=web_expense_tracker&theme=tokyonight&border_color=6A5ACD&title_color=00F7FF&icon_color=7B68EE" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=web_expense_tracker&theme=tokyonight&border_color=FFD700&title_color=FFD700&icon_color=FF8C00" />
   </a>
 </p>
 
 ---
 
-## 📊 Cyber Owl Stats  
+## 📊 My Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yummyPancake2607&show_icons=true&theme=tokyonight&border_color=6A5ACD&title_color=00F7FF&icon_color=7B68EE&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yummyPancake2607&theme=tokyonight&ring=00F7FF&fire=6A5ACD&currStreakLabel=00F7FF&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yummyPancake2607&show_icons=true&theme=tokyonight&border_color=FFD700&title_color=FFD700&icon_color=FF8C00&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yummyPancake2607&theme=tokyonight&ring=FFD700&fire=FF8C00&currStreakLabel=FFD700&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yummyPancake2607&theme=tokyonight&background=0D1117&title_color=00F7FF" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yummyPancake2607&theme=tokyonight" width="90%"/>
 </p>
 
 ---
 
-## 🎮 Fun Zone  
+## 🌈 Fun Zone  
 
-🦉 Snow Owl by night → Code Sorcerer by dawn  
-🎮 Gaming is my second programming language  
-❄️ Freezing bugs with **ice glitches** 🐛🥶  
-⚡ Neon + Code + Music = Flow State  
-🌌 I don’t dream in colors, I dream in **syntax**  
+- 🥞 Pancakes >>> Pizza 🍕 (controversial but true 😋)  
+- 🎶 Music = Debugging Companion 🎧  
+- 📸 Snapping pics → bugs look better blurred  
+- 🎮 Small games → big wisdom (shoutout to `number_guessing_game`)  
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBkNHhrMHFtZHU5NWJlaTMzbnhocWRzeDM4cWd3Y3p6bHBnNzBzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Neo Coding Matrix"/>
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="250" alt="stack pancakes"/>
 </div>
 
 ---
 
-## ❄️ Connect with the Cyber Owl  
+## 💬 Connect with Me 🔗  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshit-verma-933a56379/">
-    <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/lakshit_verma_10/">
-    <img src="https://img.shields.io/badge/Instagram-B026FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:lakshitverma123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🦉❄️ Outro  
+## 🥞 Outro  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=32&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=❄️+I+Am+The+Snow+Owl+Of+Code;⚡+I+See+Through+The+Dark+With+Neon+Eyes;🌌+I+Live+In+Purple+%2B+Ice+Blue;🎮+Developer+%2B+Gamer+%2B+Creator" alt="Outro Neon Owl"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=37&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=850&lines=✨+Served+Hot+%26+Fluffy+Like+Pancakes+✨;Made+with+%F0%9F%92%9C+by+Lakshit+Verma+🥞;Thanks+for+Stopping+By+🚀+Come+Again!" alt="Typing Outro"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
 </p>
