@@ -1,35 +1,34 @@
-<!-- 🦉 Neon Robotic Snow Owl Banner -->
+<!-- 🦉 Neon Snow Owl Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hu9K1X3mHr6dG/giphy.gif" alt="Cyberpunk Snow Owl" style="width:100%; max-width:900px; border-radius:20px;"/>
+  <img src="https://media.giphy.com/media/f9XgHHnPnDJGU/giphy.gif" alt="Cyber Snow Owl Neon" style="width:100%; max-width:900px; border-radius:20px;"/>
 </div>
 
 <h1 align="center">❄️🦉 Lakshit Verma | The Cyber Snow Owl</h1>
-<h3 align="center">🌌 Guardian of Code & Gaming | Living in Neon Nights ⚡</h3>
+<h3 align="center">🌌 Guardian of Code & Gaming | Forged in Neon Nights ⚡</h3>
 
 ---
 
-## 🧭 About Me
+## 🧭 About Me  
 
-- 🦉 A **Snow Owl in Cyber Form** — coding when the world sleeps  
-- ❄️ Fluent in **Python + FastAPI** (Backend wizardry)  
-- ⚡ Believer in **clean code that glows like neon**  
-- 🎮 **Gaming reflexes** fuel my debugging instincts  
-- 🌌 Midnight silence + neon beats = legendary flow  
+- 🦉 I am the **Snow Owl of Midnight Code**  
+- ❄️ Mastering **Backend Development (Python + FastAPI)**  
+- 🎮 Gaming reflexes → turned into debugging superpowers  
+- 🌌 At night, my code glows like neon  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Neon Owl Aesthetic"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Snow Owl in Night"/>
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ My Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,docker,linux,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,linux,docker,vscode,mysql" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500" alt="Neon Coding Matrix"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="520" alt="Neon Coding Matrix"/>
 </div>
 
 ---
@@ -42,15 +41,6 @@
   </a>
   <a href="https://github.com/yummyPancake2607/expense_tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=expense_tracker&theme=tokyonight&border_color=6A5ACD&title_color=00F7FF&icon_color=6A5ACD" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yummyPancake2607/github_cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=github_cli&theme=tokyonight&border_color=6A5ACD&title_color=00F7FF&icon_color=6A5ACD" />
-  </a>
-  <a href="https://github.com/yummyPancake2607/web_expense_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=web_expense_tracker&theme=tokyonight&border_color=6A5ACD&title_color=00F7FF&icon_color=6A5ACD" />
   </a>
 </p>
 
@@ -67,18 +57,18 @@
 
 ## 🎮 Fun Zone  
 
-🦉 **Snow Owl Vision** → see bugs in neon shadows  
-🎮 Gaming taught me → quick strategies = efficient code  
-🌌 At midnight, projects aren’t “work” → they’re **quests**  
-⚡ Life motto: *build, break, conquer, repeat*  
+🦉 Snow Owl Vision → spotting bugs in neon darkness  
+🎮 Debugging → feels like beating a final boss fight  
+⚡ Every project = a new quest  
+🌌 My IDE isn’t dark mode → it’s **galaxy mode**  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="Neon Gaming Coding"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="420" alt="Neon Gamer Coding"/>
 </div>
 
 ---
 
-## 📡 Let’s Connect  
+## 📡 Let's Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshit-verma-933a56379/">
@@ -101,9 +91,9 @@
 </div>
 
 <h2 align="center">⚡ Crafted in Midnight Silence</h2>  
-<h2 align="center">🦉 Glitched by Neon Snow Owl</h2>  
+<h2 align="center">🦉 Glitched by the Snow Owl</h2>  
 <h2 align="center">🚀 Signed with Code by <strong>Lakshit Verma</strong></h2>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Guardian+of+Code+%26+Gaming;Midnight+Developer+in+Neon+Storm;This+Profile+is+Built+to+Glow;Until+Next+Time...+Stay+Legendary!+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=This+Profile+is+Built+to+Glow;Guardian+of+Code+%26+Gaming;Made+with+Coffee%2C+Neon+%26+Code;Till+Next+Commit...+Stay+Legendary!"/>
 </p>
