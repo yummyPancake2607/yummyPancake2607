@@ -3,94 +3,90 @@
   <img src="https://media.giphy.com/media/fmtMRRASJMemhmCflM/giphy.gif" width="800" alt="Neon Owl Coding"/>
 </p>
 
-<!-- 👨‍💻 Animated Typing Intro -->
+<!-- ✨ Poetic Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&height=70&lines=🚀+Welcome+to+Lakshit's+Dev+Universe;⚡+Backend+Engineer+%7C+Python+%26+FastAPI;☕+Fueled+by+Coffee+%26+Code;💡+Crafting+Simple+%26+Scalable+Solutions;🌟+Lifelong+Learner+%7C+Problem+Solver" alt="Typing Intro Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=37&duration=5000&pause=2000&color=f72585&center=true&vCenter=true&width=1000&lines=🚀+Welcome+to+My+Digital+Universe;🌌+Where+Logic+Meets+Creativity;☕+Fueled+by+Coffee+%26+Endless+Curiosity;💡+Code+.+Dream+.+Build+.+Repeat" alt="Poetry Animation"/>
 </p>
 
 ---
 
-## 🧭 Who Am I?  
+## 🌠 A Little About Me  
 
-💻 Backend Developer exploring **Python + FastAPI**  
-🔧 Building tools that **simplify life, not complicate it**  
-☕ Coffee-driven development → *Less bugs, more energy*  
-🚀 Motto: *Code. Debug. Learn. Repeat.*  
+Hey there 👋, I’m **Lakshit Verma**.  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
-</p>
+I don’t just write code – I craft stories out of functions, shape ideas into APIs, and turn late-night coffee into flowing logic.  
+Backend engineering is my canvas 🎨, and **Python + FastAPI** are the brushes I paint with.  
 
----
-
-## ⚡ Tech Playground  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,linux,vscode,mysql,docker,aws" alt="Tech Stack" />
-</p>
-
-<p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yummyPancake2607&theme=react-dark&bg_color=0D1117&line=00F9FF&point=9D4EDD&hide_border=true" width="90%"/>
-</p>
+✨ I believe in **simplicity over complexity**.  
+⚡ I design systems that *hum quietly in the background* while powering big ideas.  
 
 ---
 
-## 🚀 Highlight Projects  
+## 🔧 My Toolbox  
+
+When inspiration meets engineering, these are my companions:  
 
 <p align="center">
-  <a href="https://github.com/yummyPancake2607/todo_cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=todo_cli&theme=tokyonight&border_color=8A2BE2&title_color=00F9FF&icon_color=9D4EDD" />
-  </a>
-  <a href="https://github.com/yummyPancake2607/expense_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=expense_tracker&theme=tokyonight&border_color=8A2BE2&title_color=00F9FF&icon_color=9D4EDD" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,linux,vscode,mysql,docker,aws" alt="Tech Stack"/>
 </p>
 
+👉 I use them not because they’re trendy, but because they help me **bring order to chaos**.  
+
+---
+
+## 🚀 Project Highlights  
+
+Behind every repo lies a story:  
+
+- **📝 Todo CLI** → simplicity in task management  
+- **💰 Expense Tracker** → clarity in chaos of numbers  
+- **🐙 GitHub CLI** → coding with speed and elegance  
+- **🌐 Web Expense Tracker** → scaling simplicity to the web  
+
 <p align="center">
-  <a href="https://github.com/yummyPancake2607/github_cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=github_cli&theme=tokyonight&border_color=8A2BE2&title_color=00F9FF&icon_color=9D4EDD" />
-  </a>
-  <a href="https://github.com/yummyPancake2607/web_expense_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=web_expense_tracker&theme=tokyonight&border_color=8A2BE2&title_color=00F9FF&icon_color=9D4EDD" />
+  <a href="https://github.com/yummyPancake2607?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=todo_cli&theme=radical&border_color=f72585&title_color=38bdf8"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=expense_tracker&theme=radical&border_color=f72585&title_color=38bdf8"/>
   </a>
 </p>
 
 ---
 
-## 📊 My GitHub Stats  
+## 📊 The Numbers Don’t Lie  
+
+Every commit, every streak, every graph – it’s more than code.  
+It’s **consistency, passion, and growth.**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yummyPancake2607&show_icons=true&theme=tokyonight&border_color=8A2BE2&title_color=00F9FF&icon_color=9D4EDD&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yummyPancake2607&theme=tokyonight&ring=00F9FF&fire=9D4EDD&currStreakLabel=00F9FF&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yummyPancake2607&theme=tokyonight" width="90%"/>
-</p>
-
----
-
-## 🌈 Fun Zone  
-
-⚡ Favorite Debugging Tools → **Music + Coffee**  
-🎮 Code small games → Learn big lessons  
-📸 Photographing → Life looks better blurred than bugs 😅  
-💡 Challenge → *1 bug per coffee ☕*  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Hacker typing"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yummyPancake2607&show_icons=true&theme=radical&title_color=38bdf8&icon_color=f72585" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yummyPancake2607&theme=radical&ring=f72585&fire=ffb703&currStreakLabel=38bdf8" height="180"/>
 </p>
 
 ---
 
-## 💬 Connect with Me 🔗  
+## 🎶 Beyond the Code  
+
+✨ Debugging with lofi beats in the background  
+🎮 Building games just to learn life’s rules  
+📷 Capturing the world one blur at a time  
+☕ One bug fixed = one more cup of coffee earned  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 🌐 Let’s Connect  
+
+Coding is better when shared 🌍. Reach me here:  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshit-verma-933a56379/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/lakshit_verma_10/">
-    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:lakshitverma123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -102,10 +98,9 @@
 ## 🔮 Outro  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=4500&pause=900&color=00F9FF&center=true&vCenter=true&width=900&height=70&lines=🚀+Thanks+For+Visiting!;✨+Keep+Experimenting+Keep+Building;💡+Made+With+Love+%7C+Lakshit+Verma" alt="Outro Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=6000&pause=2500&color=38bdf8&center=true&vCenter=true&width=1000&lines=🚀+Thanks+For+Visiting!;🌠+May+Your+Code+Be+Bug-Free+and+Your+Coffee+Be+Strong;💡+Keep+Building,+Keep+Dreaming" alt="Outro Poetic Animation"/>
 </p>
 
-<!-- 🌊 Glowing Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00F9FF&height=140&section=footer" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,100:38bdf8&height=140&section=footer"/>
 </p>
