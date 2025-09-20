@@ -3,19 +3,17 @@
   <img src="https://media.giphy.com/media/fmtMRRASJMemhmCflM/giphy.gif" width="800" alt="Night Owl Coding"/>
 </p>
 
-# 👋 Hey, I’m **Lakshit Verma**  
-✨ Also known as *yummyPancake2607* ✨  
-
-💻 Backend Engineer | 🚀 Problem Solver | ☕ Coffee-powered Developer  
+# 🌌 Welcome, I’m **Lakshit Verma** ✨  
+_A dreamer, builder & coffee-powered coder ☕_
 
 ---
 
 ## 🧭 About Me  
 
 - 🌱 Exploring **Backend Development** with Python & FastAPI  
-- 🛠 Passionate about building **CLI tools & Web utilities**  
-- 🎯 Mission → Write **simple, useful & scalable** code  
-- ☕ Motto → *Every bug fixed = One coffee earned*  
+- 🛠 Love building **CLI tools & lightweight web utilities**  
+- 🚀 My goal → Keep things **simple, useful & scalable**  
+- ☕ Coffee is my co-pilot — one bug fixed = one sip earned  
 
 ---
 
@@ -82,10 +80,10 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Coding Vibes"/>
 </p>
 
-- 🎶 Playlist = My Debugging Partner  
-- 📸 Lens lover → sometimes as blurry as my bugs  
-- 🕹 Building small games → learning big ideas  
-- ☕ Infinite code, infinite coffee  
+- 🎶 Debugging soundtrack ➝ Lo-fi beats & coffee shop vibes  
+- 📸 Photography ➝ Sometimes blurrier than my bugs 😅  
+- 🕹 Games ➝ *small code, big lessons learned*  
+- ☕ Infinite coffee = infinite energy for commits  
 
 ---
 
@@ -99,12 +97,7 @@
 
 ---
 
-## 🙏 Thank You  
+## 🥞 Outro  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=34&duration=5000&pause=2000&color=38bdf8&center=true&vCenter=true&width=1000&lines=🙏+Thanks+So+Much+For+Visiting!;😊+I'm+Really+Glad+You+Stopped+By;💡+Hope+Something+Here+Inspired+You;🚀+See+You+Again+Soon!" alt="Warm Outro Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,100:38bdf8&height=120&section=footer"/>
-</p>
+✨ Served hot & tasty — just like pancakes.  
+**– Lakshit Verma 🥞**
