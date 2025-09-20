@@ -1,19 +1,12 @@
 <!-- 🌌 Futuristic Hero Banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="width: 100%; max-width: 900px; border-radius: 15px;"/>
-</div>
-
-<!-- 👨‍💻 Typing Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=00F9FF&center=true&vCenter=true&width=850&lines=🚀+Welcome+to+Lakshit's+Dev+Universe;⚡+Backend+Developer+%7C+Python+%26+FastAPI;☕+Fueled+by+Coffee+%26+Code;💡+Crafting+Simple+Solutions!" alt="Typing Animation"/>
-</h1>
-
----
-
-<!-- 🔮 Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=200&color=gradient&text=✨%20Code%20%7C%20Coffee%20%7C%20Create%20✨&fontColor=ffffff&animation=twinkling&fontSize=35&fontAlignY=40&desc=Backend%20Engineer%20|%20Python%20%26%20FastAPI&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&section=header&text=🚀%20Lakshit's%20Dev%20Universe&fontSize=40&fontColor=00F9FF&animation=fadeIn&fontAlignY=35" />
 </p>
+
+<!-- 👨‍💻 Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F9FF&center=true&vCenter=true&width=850&lines=⚡+Backend+Engineer+%7C+Python+%26+FastAPI;☕+Fueled+by+Code+and+Coffee;💡+Crafting+Clean+%26+Simple+Solutions;🌟+Always+Learning+%7C+Always+Building" alt="Typing SVG intro"/>
+</h1>
 
 ---
 
@@ -24,9 +17,9 @@
 ☕ Coffee-driven development → *Less bugs, more energy*  
 🚀 Motto: *Code. Debug. Learn. Repeat.*  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Loop"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
+</p>
 
 ---
 
@@ -84,9 +77,9 @@
 📸 Photographing → Life looks better blurred than bugs 😅  
 💡 Challenge → *1 bug per coffee ☕*  
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Hacker typing"/>
-</div>
+</p>
 
 ---
 
@@ -109,9 +102,9 @@
 ## 🔮 Outro  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=37&duration=3500&pause=800&color=00F9FF&center=true&vCenter=true&width=850&lines=✨+Keep+Learning+Keep+Building+✨;Made+with+❤️+by+Lakshit+Verma;Thanks+for+Visiting+🚀+Come+Again!" alt="Outro Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=850&lines=✨+Keep+Coding%2C+Keep+Growing+✨;⚡+Made+With+Passion+By+Lakshit+Verma;🌌+Thanks+For+Visiting!+🚀" alt="Outro Typing"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=553C9A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=302b63&section=footer"/>
 </p>
