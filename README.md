@@ -1,47 +1,44 @@
-<!-- 🌌 Hero Banner -->
+<!-- 🦉 Neon Owl Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Glowing Pancakes" style="width: 100%; max-width: 900px; border-radius: 15px;"/>
+  <img src="https://media.giphy.com/media/fmtMRRASJMemhmCflM/giphy.gif" alt="Neon Owl Coding" style="width: 100%; max-width: 960px; border-radius: 15px;" />
 </div>
 
-<!-- ✨ Cyberpunk Pancake Typing Banner -->
+<!-- 🥞 Pancake-Infused Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&duration=3000&pause=1000&color=F7C259&background=00000000&center=true&vCenter=true&width=850&lines=🥞+Lakshit+Verma+%7C+yummyPancake2607+🥞;Backend+Developer+⚡+Python+%26+FastAPI;Coding+with+Coffee+%2B+Pancakes+☕;Let's+Make+Life+%F0%9F%9A%80+Simpler!" alt="Typing SVG Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Lakshit+Verma+🦉✨;Also+known+as+yummyPancake2607+🥞🍯;Backend+Developer+⚡+Python+%2B+FastAPI;Coding+Fueled+by+Coffee+☕+%26+Pancakes+🥞" alt="Typing SVG Banner" />
 </h1>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header&text=🥞+Welcome+to+My+Pancake+Universe!+🥞&fontSize=30&fontColor=0D1117&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header&text=🦉+Welcome+to+My+Code+Nest!+🥞&fontSize=30&fontColor=0D1117&animation=fadeIn&fontAlignY=40" />
 </p>
 
 ---
 
-## 🧭 Who Am I?  
+## 🧭 About Me  
 
-🍯 Backend Dev exploring **Python + FastAPI**  
-🥞 Pancake nickname → `yummyPancake2607`  
-⚡ Passion = **simple tools > endless complexity**  
-☕ Life motto: *More coffee, less bugs*  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKQ2Nc5a6LNp29i/giphy.gif" width="300"/>
-</div>
+- 🦉 **Night Owl Coder** – I shine when the world sleeps  
+- 🌱 Exploring **Backend Dev** → Python + FastAPI  
+- 🛠 Crafting **CLI & Web Tools** that simplify life  
+- ☕ + 🥞 = *legendary coding combo*  
+- ✨ Belief → Useful + clean + FUN code!  
 
 ---
 
-## ⚡ Tech Playground  
+## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,linux,vscode,mysql,docker" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,linux,vscode,docker" alt="Skills"/>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yummyPancake2607&theme=react-dark&bg_color=0D1117&line=FFD700&point=FF8C00&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yummyPancake2607&theme=react-dark&bg_color=0D1117&line=FFD700&point=FF8C00&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-## 🚀 Highlight Repos  
+## 🚀 Featured Projects  
 
 <p align="center">
   <a href="https://github.com/yummyPancake2607/todo_cli">
@@ -52,18 +49,9 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yummyPancake2607/github_cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=github_cli&theme=tokyonight&border_color=FFD700&title_color=FFD700&icon_color=FF8C00" />
-  </a>
-  <a href="https://github.com/yummyPancake2607/web_expense_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yummyPancake2607&repo=web_expense_tracker&theme=tokyonight&border_color=FFD700&title_color=FFD700&icon_color=FF8C00" />
-  </a>
-</p>
-
 ---
 
-## 📊 My Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yummyPancake2607&show_icons=true&theme=tokyonight&border_color=FFD700&title_color=FFD700&icon_color=FF8C00&rank_icon=github" height="170"/>
@@ -78,18 +66,19 @@
 
 ## 🌈 Fun Zone  
 
-- 🥞 Pancakes >>> Pizza 🍕 (controversial but true 😋)  
-- 🎶 Music = Debugging Companion 🎧  
-- 📸 Snapping pics → bugs look better blurred  
-- 🎮 Small games → big wisdom (shoutout to `number_guessing_game`)  
+- 🦉 Night Owl → Code after midnight = extra creativity ✨  
+- 🥞 Pancakes >>> Pizza 🍕 (don’t argue 😅)  
+- 🎶 Music drives my coding flow 🎧  
+- 📸 My bugs are blurrier than my night shots  
+- 🎮 Small games → big coding lessons 🎯  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="250" alt="stack pancakes"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/Urc6w5oQdP7gcYgp8q/giphy.gif" width="220" alt="Pancake Stack"/>
+</p>
 
 ---
 
-## 💬 Connect with Me 🔗  
+## 📡 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshit-verma-933a56379/">
@@ -105,10 +94,10 @@
 
 ---
 
-## 🥞 Outro  
+## 🦉🥞 Outro  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=37&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=850&lines=✨+Served+Hot+%26+Fluffy+Like+Pancakes+✨;Made+with+%F0%9F%92%9C+by+Lakshit+Verma+🥞;Thanks+for+Stopping+By+🚀+Come+Again!" alt="Typing Outro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=37&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=850&lines=✨+Wise+Like+an+Owl+%F0%9F%A6%89;Fluffy+Like+Pancakes+%F0%9F%A5%9E;Made+with+%F0%9F%92%9C+by+Lakshit+Verma+🚀" alt="Outro"/>
 </p>
 
 <p align="center">
