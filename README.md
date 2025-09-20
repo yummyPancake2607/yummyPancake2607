@@ -1,22 +1,22 @@
 <!-- 🦉 Cyber Neon Owl Banner -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d7/10/a5/d710a5c2ebc0d4c628d67a5170ca4a9e.gif" alt="Cyber Owl Banner" style="width:100%; max-width:950px; border-radius:20px;"/>
+  <img src="https://i.pinimg.com/originals/38/80/8b/38808bdb93b7e8ea1e5c58a4b80d5a56.gif" alt="Cyber Neon Owl Banner" style="width:100%; max-width:950px; border-radius:20px;"/>
 </div>
 
-<h1 align="center">⚡ ❄️🦉 Lakshit Verma | The Cyber Snow Owl</h1>
-<h3 align="center">🌌 Keeper of Purple Neon Code | Guardian of Gaming Realms 🎮</h3>
+<h1 align="center">❄️🦉 Lakshit Verma | The Cyber Snow Owl</h1>
+<h3 align="center">🌌 Guardian of Purple Code & Galactic Gaming ⚡</h3>
 
 ---
 
 ## 🧭 About Me  
 
-- ❄️ Forged in **purple neon + silence of midnight**  
+- ❄️ Forged in **midnight code + neon violet aura**  
 - 🦉 Backend Wizard → **Python | FastAPI | Automation | C++**  
-- 🎮 Gaming Reflex = **Bug-killing beast mode**  
-- 🌌 I don’t just code, I **summon galaxies of logic**  
+- 🎮 Gaming instincts sharpen my **debugging reflexes**  
+- 🌌 I don’t just code, I **summon the cyber void into logic**  
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a0/82/03/a08203b0e0d2dbf122e214e2c4c8dc26.gif" width="500" alt="Cyber Owl in Glitch Aura"/>
+  <img src="https://i.pinimg.com/originals/f5/a2/64/f5a264efd5e36d9be2b39a8easmoke.gif" width="500" alt="Neon Owl Floating in Cyber Aura"/>
 </div>
 
 ---
@@ -28,7 +28,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8a/f0/88/8af0881e860ebc3f4c75c92f7e9b0380.gif" width="520" alt="Purple Neon Coding Flow"/>
+  <img src="https://i.pinimg.com/originals/0d/57/ca/0d57ca002cb16f49dd504de45528a1bb.gif" width="520" alt="Purple Neon Code Flow"/>
 </div>
 
 ---
@@ -57,13 +57,13 @@
 
 ## 🎮 Fun Zone  
 
-🦉 In midnight silence → **Neon code flows like stardust**  
-🎮 Games taught me → **strategy, patience & perfect timing**  
-⚡ Every bug = just a **final boss glowing in purple**  
-🌌 My desk = **holographic galaxy of code & beats**  
+🦉 Midnight silence = **Neon thoughts awaken**  
+🎮 Games gave me → **timing, patience & “final boss debugging”**  
+⚡ Every bug is an **enemy glowing in purple neon**, waiting for defeat  
+🌌 My desk = **Galaxy of beats + cyber holograms of logic**  
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/dc/2a/e4/dc2ae4e158b8a32df2a444ef98a32923.gif" width="420" alt="Neon Gamer Hacker Owl"/>
+  <img src="https://i.pinimg.com/originals/95/da/85/95da85d1531d3d8c89994e55c1e02c8b.gif" width="420" alt="Cyber Hacker Gamer"/>
 </div>
 
 ---
@@ -77,23 +77,27 @@
   <a href="https://www.instagram.com/lakshit_verma_10/">
     <img src="https://img.shields.io/badge/Instagram-BA55D3?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:lakshitverma123@gmail.com">
+  <a href="mailto:lakshitv260710@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-9932CC?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🦉 ❄️ Outro  
+# 🦉 ❄️ Cyber Owl Outro  
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/23/f8/37/23f837c52a892fa07f3f1e5bf5ec1f0a.gif" width="700" alt="Purple Neon Owl Outro"/>
+  <img src="https://i.pinimg.com/originals/e3/19/61/e31961a9297fd20846ab6ccd5ddc0f55.gif" width="700" alt="Neon Cyber Owl Outro"/>
 </div>
 
-<h2 align="center">⚡ Forged in Purple Neon & Midnight Silence</h2>  
-<h2 align="center">🦉 Guardian Snow Owl of Code</h2>  
-<h2 align="center">🚀 Signed in Code → <strong>Lakshit Verma (aka yummyPancake2607)</strong></h2>  
+<h2 align="center">🌌 Forged in Midnight Purple ⚡</h2>  
+<h2 align="center">🦉 Guardian of the Galactic Code</h2>  
+<h2 align="center">🚀 Signed in Cyber Light → <strong>Lakshit Verma (aka yummyPancake2607)</strong></h2>  
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/99/3b/00/993b00a061a0c7f9d2fb0a3f44c6b680.gif" width="650" alt="Neon Purple Owl Flying through Code"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=BA55D3&center=true&vCenter=true&width=700&lines=This+Profile+Glows+in+Purple+Neon;Guardian+of+Code+%26+Gaming;Made+with+Snow%2C+Silence+%26+Logic;Stay+Cosmic...+Owl+Watches+Midnight+🌌🦉"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=BA55D3&center=true&vCenter=true&width=700&lines=This+Profile+Glows+in+Purple+Neon;Guardian+of+Code+%26+Gaming;Hacked+in+Silence+%26+Logic;Stay+Cosmic...+The+Owl+Sees+Everything+🦉"/>
 </p>
