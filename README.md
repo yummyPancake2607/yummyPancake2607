@@ -1,27 +1,28 @@
-<!-- 🚀 Hero Banner -->
+<!-- 🌌 Futuristic Hero Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Hero" style="width: 100%; max-width: 900px; border-radius: 15px;"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="width: 100%; max-width: 900px; border-radius: 15px;"/>
 </div>
 
-<!-- 💻 Cyber Tech Typing Banner -->
+<!-- 👨‍💻 Typing Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&duration=3000&pause=1000&color=00F9FF&background=00000000&center=true&vCenter=true&width=850&lines=Lakshit+Verma+%7C+yummyPancake2607;Backend+Developer+⚡+Python+%26+FastAPI;Coding+with+Coffee+☕;Building+%F0%9F%9A%80+Simpler+Solutions!" alt="Typing SVG Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=00F9FF&center=true&vCenter=true&width=850&lines=🚀+Welcome+to+Lakshit's+Dev+Universe;⚡+Backend+Developer+%7C+Python+%26+FastAPI;☕+Fueled+by+Coffee+%26+Code;💡+Crafting+Simple+Solutions!" alt="Typing Animation"/>
 </h1>
 
 ---
 
+<!-- 🔮 Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=553C9A&height=120&section=header&text=Welcome+to+My+Dev+Universe!&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=200&color=gradient&text=✨%20Code%20%7C%20Coffee%20%7C%20Create%20✨&fontColor=ffffff&animation=twinkling&fontSize=35&fontAlignY=40&desc=Backend%20Engineer%20|%20Python%20%26%20FastAPI&descAlignY=65&descAlign=50"/>
 </p>
 
 ---
 
 ## 🧭 Who Am I?  
 
-💻 Backend Dev exploring **Python + FastAPI**  
-🎯 Nickname → `yummyPancake2607`  
-⚡ Passion = **simple tools > endless complexity**  
-☕ Life motto: *More coffee, less bugs*  
+💻 Backend Developer exploring **Python + FastAPI**  
+🔧 Building tools that **simplify life, not complicate it**  
+☕ Coffee-driven development → *Less bugs, more energy*  
+🚀 Motto: *Code. Debug. Learn. Repeat.*  
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Loop"/>
@@ -32,7 +33,7 @@
 ## ⚡ Tech Playground  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,linux,vscode,mysql,docker" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,linux,vscode,mysql,docker,aws" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -41,7 +42,7 @@
 
 ---
 
-## 🚀 Highlight Repos  
+## 🚀 Highlight Projects  
 
 <p align="center">
   <a href="https://github.com/yummyPancake2607/todo_cli">
@@ -63,7 +64,7 @@
 
 ---
 
-## 📊 My Stats  
+## 📊 My GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yummyPancake2607&show_icons=true&theme=tokyonight&border_color=8A2BE2&title_color=00F9FF&icon_color=9D4EDD&rank_icon=github" height="170"/>
@@ -78,10 +79,10 @@
 
 ## 🌈 Fun Zone  
 
-- ☕ Coffee >>> Any Bug Fixing Session  
-- 🎶 Music = Debugging Companion 🎧  
-- 📸 Love snapping pics → bugs look less scary blurred  
-- 🎮 Small coding games → big wisdom (shoutout to `number_guessing_game`)  
+⚡ Favorite Debugging Tools → **Music + Coffee**  
+🎮 Code small games → Learn big lessons  
+📸 Photographing → Life looks better blurred than bugs 😅  
+💡 Challenge → *1 bug per coffee ☕*  
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Hacker typing"/>
@@ -108,7 +109,7 @@
 ## 🔮 Outro  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=37&duration=3500&pause=800&color=00F9FF&center=true&vCenter=true&width=850&lines=✨+Keep+Building+%7C+Keep+Learning+✨;Made+with+%F0%9F%92%9C+by+Lakshit+Verma;Thanks+for+Visiting+🚀+Come+Again!" alt="Typing Outro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=37&duration=3500&pause=800&color=00F9FF&center=true&vCenter=true&width=850&lines=✨+Keep+Learning+Keep+Building+✨;Made+with+❤️+by+Lakshit+Verma;Thanks+for+Visiting+🚀+Come+Again!" alt="Outro Typing"/>
 </p>
 
 <p align="center">
